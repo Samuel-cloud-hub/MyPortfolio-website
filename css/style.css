@@ -63,17 +63,19 @@ body {
     transform: translate(-50%, -50%);
     text-align: center;
     color: #ffff;
-    font-size: x-large;
+    font-size: large;
     font-family: sans-serif;
+    padding-top: 50px;
 }
 .hero-button {
-    padding: 25px;
-    width: 40%;
+    padding: 20px;
     border-width: 1px;
     background-color: #5db2ff;
     border-color: #ffff;
     border-radius: 5px;
     color: #ffff;
+    text-align: center;
+    font-size: larger;
 }
 .hero-button:hover {
     background-color: #001d38;
@@ -160,6 +162,16 @@ body {
 }
 .btn:hover {
     background-color: #111;
+}
+.hero-btn {
+    padding: 20px;
+    border-width: 1px;
+    background-color: #5db2ff;
+    border-color: #ffff;
+    border-radius: 5px;
+    color: #ffff;
+    text-align: center;
+    font-size: larger;
 }
 
 
