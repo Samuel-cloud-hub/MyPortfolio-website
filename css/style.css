@@ -80,6 +80,19 @@ body {
 .hero-button:hover {
     background-color: #001d38;
 }
+@media only screen and (max-width: 800px) {
+    .hero-page {
+        width: 100%;
+    }
+    .hero-text {
+        width: 100%;
+    }
+.hero-button {
+    width: 100%;
+}
+
+    
+}
 
 
 * {
@@ -172,6 +185,11 @@ body {
     color: #ffff;
     text-align: center;
     font-size: larger;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.hero-btn:hover {
+    background-color: #001d38;
 }
 
 
