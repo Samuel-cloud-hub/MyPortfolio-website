@@ -81,13 +81,6 @@ body {
 .hero-button:hover {
     background-color: #83c4ff;
 }
-@media only screen and(min-width: 400px) {
-    .hero-page img {
-        width: 50%;
-        height: auto;
-    }
-    
-}
 @media only screen and (max-width: 800px) {
     .hero-page {
         width: 100%;
@@ -181,13 +174,6 @@ body {
 }
 .btn:hover {
     background-color: #111;
-}
-@media only screen and (max-width: 400px) {
-    .image-wrapper img {
-        width: 100%;
-        height: auto;
-    }
-    
 }
 @media only screen and (max-width: 800px) {
     .about-container {
@@ -300,7 +286,7 @@ body {
 .copy-right {
     text-align: center;
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 400px) {
     .footer-section {
         width: 100%;
     }
