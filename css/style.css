@@ -88,7 +88,7 @@ body {
     }
     
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .hero-page {
         width: 100%;
     }
@@ -136,7 +136,7 @@ body {
     text-align: center;
     font-size: larger;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .service-section {
         width: 100%;
     }
@@ -189,7 +189,7 @@ body {
     }
     
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .about-container {
         width: 100%;
     }
@@ -262,7 +262,7 @@ body {
     padding: 15px;
     width: 20%;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .input-box {
         width: 100%;
     }
@@ -300,7 +300,7 @@ body {
 .copy-right {
     text-align: center;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .footer-section {
         width: 100%;
     }
