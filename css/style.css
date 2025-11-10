@@ -81,15 +81,6 @@ body {
 .hero-button:hover {
     background-color: #83c4ff;
 }
-@media only screen and (min-width: 400px) {
-    .hero-page {
-        width: 100%;
-    }
-    .hero-button {
-        width: 100%;
-    }
-    
-}
 
 
 * {
@@ -174,18 +165,6 @@ body {
 }
 .btn:hover {
     background-color: #111;
-}
-@media only screen and (min-width: 400px) {
-    .about-container {
-        width: 100%;
-    }
-    .about-text {
-        width: 100%;
-    }
-    .btn {
-        width: 100%;
-    }
-    
 }
 
 
@@ -285,16 +264,4 @@ body {
 
 .copy-right {
     text-align: center;
-}
-@media only screen and (max-width: 800px) {
-    .footer-section {
-        width: 100%;
-    }
-    .links {
-        width: 100%;
-    }
-    .copy-right {
-        width: 100%;
-    }
-    
 }
